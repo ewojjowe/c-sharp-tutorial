@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fruits\" />
+    <None Remove="Heroes\" />
+    <None Remove="Heroes\MobileLegends\" />
+    <None Remove="Heroes\Pinoy\" />
+    <None Remove="Heroes\MobileLegends\Assasins\" />
+    <None Remove="Heroes\MobileLegends\Fighters\" />
+    <None Remove="Heroes\MobileLegends\Mages\" />
+    <None Remove="Heroes\Pinoy\Bisaya\" />
+    <None Remove="Heroes\Pinoy\Tagalog\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fruits\" />
+    <Folder Include="Heroes\" />
+    <Folder Include="Heroes\MobileLegends\" />
+    <Folder Include="Heroes\Pinoy\" />
+    <Folder Include="Heroes\MobileLegends\Assasins\" />
+    <Folder Include="Heroes\MobileLegends\Fighters\" />
+    <Folder Include="Heroes\MobileLegends\Mages\" />
+    <Folder Include="Heroes\Pinoy\Bisaya\" />
+    <Folder Include="Heroes\Pinoy\Tagalog\" />
+  </ItemGroup>
+</Project>
