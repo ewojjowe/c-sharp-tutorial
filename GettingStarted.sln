@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableAndDatatype", "Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceAndComments", "NamespaceAndComments\NamespaceAndComments.csproj", "{31A3EA1A-3705-4706-8D83-F884429DA964}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputsAndExpressionsAndOperators", "InputsAndExpressionsAndOperators\InputsAndExpressionsAndOperators.csproj", "{6FFE6A4F-1746-4017-BD46-8ED03EE39113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{31A3EA1A-3705-4706-8D83-F884429DA964}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A3EA1A-3705-4706-8D83-F884429DA964}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A3EA1A-3705-4706-8D83-F884429DA964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
