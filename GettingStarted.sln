@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceAndComments", "Nam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputsAndExpressionsAndOperators", "InputsAndExpressionsAndOperators\InputsAndExpressionsAndOperators.csproj", "{6FFE6A4F-1746-4017-BD46-8ED03EE39113}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControls", "FlowControls\FlowControls.csproj", "{AE92630E-2779-4A04-9639-9E6F0D9478C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FFE6A4F-1746-4017-BD46-8ED03EE39113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE92630E-2779-4A04-9639-9E6F0D9478C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE92630E-2779-4A04-9639-9E6F0D9478C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE92630E-2779-4A04-9639-9E6F0D9478C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE92630E-2779-4A04-9639-9E6F0D9478C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
