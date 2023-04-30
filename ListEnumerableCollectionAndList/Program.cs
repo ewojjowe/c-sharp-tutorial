@@ -75,7 +75,7 @@ namespace ListEnumearationCollectionAndList
             //enumerableCountries[0] = "Phl";
             Console.WriteLine("================================");
             Console.WriteLine("Enumerable:");
-            foreach(var country in enumerableCountries)
+            foreach (var country in enumerableCountries)
             {
                 Console.WriteLine(country);
             }
@@ -87,7 +87,7 @@ namespace ListEnumearationCollectionAndList
             //colCountries[0] = "sample";
             Console.WriteLine("================================");
             Console.WriteLine("Collections:");
-            foreach(var country in colCountries)
+            foreach (var country in colCountries)
             {
                 Console.WriteLine(country);
             }
@@ -107,7 +107,7 @@ namespace ListEnumearationCollectionAndList
             listCountriesNew[0] = "America";
             Console.WriteLine("================================");
             Console.WriteLine("List of countries");
-            for(var index = 0; index < listCountriesNew.Count; index++)
+            for (var index = 0; index < listCountriesNew.Count; index++)
             {
                 Console.WriteLine($"{index}:{listCountriesNew[index]}");
             }
