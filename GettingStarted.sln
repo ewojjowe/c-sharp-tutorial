@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControls", "FlowControl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularProject", "AngularProject\AngularProject.csproj", "{7A7F6D46-5D59-48F2-BC67-517912FE8138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEnumerableCollectionAndList", "ListEnumerableCollectionAndList\ListEnumerableCollectionAndList.csproj", "{7CE0FB98-40D6-4347-9C7C-EA7EFA7A5FA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7A7F6D46-5D59-48F2-BC67-517912FE8138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A7F6D46-5D59-48F2-BC67-517912FE8138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A7F6D46-5D59-48F2-BC67-517912FE8138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE0FB98-40D6-4347-9C7C-EA7EFA7A5FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE0FB98-40D6-4347-9C7C-EA7EFA7A5FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE0FB98-40D6-4347-9C7C-EA7EFA7A5FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE0FB98-40D6-4347-9C7C-EA7EFA7A5FA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
